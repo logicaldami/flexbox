@@ -31,7 +31,7 @@ https://github.com/engrshege/designer-to-developer-handoff/assets/52855925/e2474
     
 ## Assesment Completed
 
-  * Sunday, 28 Jan. 2024
+  * Sunday, 28 January 2024
 
 
 ## License
