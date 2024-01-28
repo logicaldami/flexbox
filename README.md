@@ -11,10 +11,6 @@ Picture Preview:
 
 ![designer_to_developer_handoff](./img/live_capture.png)
 
-Video Preview:
-
-https://github.com/engrshege/designer-to-developer-handoff/assets/52855925/e2474238-b7fe-458a-8240-01b5791c5471
-
 
 
 ## Built With
