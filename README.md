@@ -9,7 +9,7 @@ https://engrshege.github.io/flexbox/
 
 Picture Preview:
 
-![designer_to_developer_handoff](./img/live_capture.png)
+![flexbox](./img/flexbox-live-preview.png)
 
 
 
