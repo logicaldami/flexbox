@@ -58,4 +58,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-  * Complete Web & Mobile Designer in 2023: UI/UX, Figma, + more by Andrei Neagoie & Daniel Schifano.
+  * Complete Web & Mobile Designer: UI/UX, Figma, + more by Andrei Neagoie & Daniel Schifano.
